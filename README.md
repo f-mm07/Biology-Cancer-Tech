@@ -8,12 +8,12 @@ Cancer is one of the leading causes of death worldwide, and mitosis-related canc
 This project investigates:
 
 The connection between mitosis and cancer
-How AI and technology are used in cancer detection and treatment
-Real-world biomedical applications improving patient outcomes
+How AI and technology are used in earl cancer detection and treatment
+Real-world improvements for patients
 
 Research & Citations
 
-This project builds on scientific research and case studies, including:
+This project is fully scientific research based and case studies from acreddited universties all of which are included in the detailed report I have uploaded on my respitory 
 
 AI-powered cancer detection tools
 Machine learning algorithms identifying abnormal cell division
